@@ -1,15 +1,16 @@
-id: opecha:P007955
+id: P007955
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W28967
   title: བཟོ་གནས་སྐྲ་རྩེའི་ཆུ་ཐིགས
-  volume:
+  author: ''
+  volumes:
     188f79a0ef9f4314b3271a341f7d8b57:
       image_group_id: I1PD36339
       title: Volume 1 of bzo gnas skra rtse'i chu thigs
       volume_number: 1
       total_pages: 694
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བཟོ་གནས་སྐྲ་རྩེའི་ཆུ་ཐིགས
   author: ''
